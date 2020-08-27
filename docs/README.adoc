@@ -1,0 +1,351 @@
+____
+Registrar
+
+Functions
+____
+
+registrar - view
+
+____
+**Add Documentation for the method here** No parameters
+
+Returns:
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |address |
+|===
+
+preregister - view
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |address |
+|===
+
+____
+Returns:
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |bool |
+|===
+
+msgs - view
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |address |
+| |uint256 |
+|===
+
+____
+Returns:
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |address |
+|===
+
+sent - view
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |address |
+| |uint256 |
+|===
+
+____
+Returns:
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |address |
+|===
+
+getMsgs - read
+
+____
+**Add Documentation for the method here** No parameters
+
+Returns:
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |address[] |
+|===
+
+preRegister - read
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+|preReg |address |
+|===
+
+____
+Returns:
+
+No parameters
+____
+
+updateRegistration - read
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+|===
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+|hash |string |
+|gnid |string |
+|===
+
+____
+Returns:
+
+No parameters
+____
+
+fee_registration - view
+
+____
+**Add Documentation for the method here** No parameters
+
+Returns:
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |uint256 |
+|===
+
+sendMsg - read
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+|to |address |
+|hash |string |
+|===
+
+____
+Returns:
+
+No parameters
+____
+
+setMsgPrice - read
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+|price |uint256 |
+|===
+
+____
+Returns:
+
+No parameters
+____
+
+regadr - view
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |address |
+|===
+
+____
+Returns:
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+|adr |address |
+|hash |string |
+|gnid |string |
+|===
+
+ackMsg - read
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+|msgid |uint256 |
+|hash |string |
+|===
+
+____
+Returns:
+
+No parameters
+____
+
+fee_msg - view
+
+____
+**Add Documentation for the method here** No parameters
+
+Returns:
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |uint256 |
+|===
+
+regs - view
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |uint256 |
+|===
+
+____
+Returns:
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+|adr |address |
+|hash |string |
+|gnid |string |
+|===
+
+setRegistrationPrice - read
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+|price |uint256 |
+|===
+
+____
+Returns:
+
+No parameters
+____
+
+unregister - read
+
+____
+**Add Documentation for the method here** No parameters
+
+Returns:
+
+No parameters
+____
+
+register - read
+
+____
+**Add Documentation for the method here**
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+|hash |string |
+|===
+
+____
+Returns:
+
+No parameters
+____
+
+cnt_registrations - view
+
+____
+**Add Documentation for the method here** No parameters
+
+Returns:
+____
+
+[cols="<,<,<",]
+|===
+|Name |Type |Description
+| |uint256 |
+|===
+
+____
+constructor - read No parameters Returns:
+
+No parameters
+____
+
+fallback - read
+
+____
+**Add Documentation for the method here** No parameters
+
+Returns:
+
+No parameters
+____
