@@ -1,0 +1,18 @@
+{
+	"Creation": {
+		"codeDepositCost": "245000",
+		"executionCost": "infinite",
+		"totalCost": "infinite"
+	},
+	"External": {
+		"": "infinite",
+		"ack(string)": "infinite",
+		"from()": "669",
+		"hash_ack()": "infinite",
+		"hash_msg()": "infinite",
+		"registrar()": "581",
+		"timestamp_ack()": "538",
+		"timestamp_msg()": "384",
+		"to()": "559"
+	}
+}

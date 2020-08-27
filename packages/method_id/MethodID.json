@@ -1,0 +1,22 @@
+{
+		"methodIdentifiers": {
+			"ackMsg(uint256,string)": "a8b60b93",
+			"cnt_registrations()": "f385d890",
+			"fee_msg()": "cc36809f",
+			"fee_registration()": "732ef12c",
+			"getMsgs()": "50ab6f7f",
+			"msgs(address,uint256)": "351f42c3",
+			"preRegister(address)": "6bae05cf",
+			"preregister(address)": "2eaae261",
+			"regadr(address)": "9e8385d6",
+			"register(string)": "f2c298be",
+			"registrar()": "2b20e397",
+			"regs(uint256)": "d97049bb",
+			"sendMsg(address,string)": "7b02b2c9",
+			"sent(address,uint256)": "3bcb2e66",
+			"setMsgPrice(uint256)": "8aa33776",
+			"setRegistrationPrice(uint256)": "e0117441",
+			"unregister()": "e79a198f",
+			"updateRegistration(string,string)": "71e11354"
+		}
+	}
